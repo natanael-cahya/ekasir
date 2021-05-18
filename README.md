@@ -1,2 +1,5 @@
 # ekasir
-Latian membuat POS(E-Kasir) dengan Go Lang
+Exercise To make POS-WebApplication Using Go Lang 
+
+# Database
+Using Mysql Driver , include database file (.SQL)
